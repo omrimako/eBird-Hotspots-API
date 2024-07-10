@@ -1,6 +1,6 @@
 # eBird-hotspots-API
 
-EBird-hotspots-API allow users to locate birding hotspots around their location using eBird API.
+eBird-hotspots-API allow users to locate birding hotspots around their location using eBird API.
 
 eBird is a real-time, online bird checklist program. For more information, visit their website: https://ebird.org/home
 
